@@ -1,4 +1,4 @@
-# Arogya Sathi (आरोग्य साथी)
+#Arogya Sathi (आरोग्य साथी)
 
 **A digital coordination layer that strengthens — not replaces — the public rural
 healthcare system.**
