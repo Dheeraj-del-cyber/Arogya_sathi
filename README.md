@@ -146,4 +146,4 @@ Future Scope
 
 • District and state-level analytics – Help health authorities identify referral bottlenecks, medicine shortages, overloaded facilities and emerging healthcare needs.
 
-• Wearable and device integration – Enable automatic collection of BP ,glucose,SpO₂ and other vital signs for continuous monitoring.
+• Wearable and device integration – Enable automatic collection of BP ,glucose,SpO₂ and other vital signs for continuous monitoring..
