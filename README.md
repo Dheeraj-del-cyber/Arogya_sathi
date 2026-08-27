@@ -124,3 +124,26 @@ All endpoints are under `http://localhost:4000/api`:
 - `GET /referrals`, `POST /referrals`, `PATCH /referrals/:id/status`
 - `GET /followups?dueWithinDays=14`, `PATCH /followups/:id/status`
 - `GET /dashboard/facility/:id`, `GET /dashboard/district-overview`
+
+
+Future Scope
+
+• AI-powered clinical decision support – Replace the current rule-based triage engine with a validated AI model to analyse symptoms, vitals, medical history and risk factors.
+
+• ABDM / ABHA integration – Connect with India's digital health ecosystem to securely exchange patient records, referrals and consultation information between healthcare facilities.
+
+• Offline-first mobile application – Enable health workers to register patients, perform triage and update referrals without internet, with automatic syncing when connectivity returns.
+
+• SMS, IVR and WhatsApp reminders – Send appointment, medicine, diagnostic and follow-up reminders through accessible communication channels.
+
+• Predictive high-risk alerts – Identify patients who may miss follow-ups or require escalation and alert health workers before the situation becomes critical.
+
+• Real-time facility capacity management – Show bed availability, doctors, medicines, diagnostic services and emergency capacity across facilities.
+
+• Smart referral routing – Recommend the most suitable facility based on urgency, distance, specialist availability, diagnostics and facility workload.
+
+• Multilingual voice assistant – Allow patients to interact through voice in regional languages, especially supporting elderly and low-literacy users.
+
+• District and state-level analytics – Help health authorities identify referral bottlenecks, medicine shortages, overloaded facilities and emerging healthcare needs.
+
+• Wearable and device integration – In the future, vital signs such as BP, blood glucose and SpO₂ can be captured from connected devices for continuous monitoring.
