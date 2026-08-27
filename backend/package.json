@@ -1,0 +1,18 @@
+{
+  "name": "arogya-sathi-backend",
+  "version": "1.0.0",
+  "description": "Arogya Sathi - digital coordination layer for public rural healthcare",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node db/seed.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "nanoid": "^5.0.7"
+  }
+}
