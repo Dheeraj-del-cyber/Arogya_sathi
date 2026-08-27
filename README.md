@@ -61,7 +61,7 @@ arogya-sathi/
   before travelling, and search across every facility for a specific test or
   medicine.
 - **High-risk follow-up tracking** — a dedicated worklist of upcoming and
-  overdue follow-ups (antenatal, chronic disease, etc.) so patients aren't lost
+  overdue follow-ups (antenatal,chronic disease, etc.) so patients aren't lost
   after their first visit.
 - **Facility dashboard** — doctors posted, medicine availability %, diagnostic
   availability %, pending referrals, and overdue follow-ups per facility, plus
@@ -89,7 +89,7 @@ arogya-sathi/
 
 Requires Node.js 18+.
 
-### 1. Backend
+### 1.Backend
 
 ```bash
 cd backend
@@ -98,7 +98,7 @@ npm run seed      # creates + populates arogya_sathi.db with demo facilities/pat
 npm start         # http://localhost:4000
 ```
 
-### 2. Frontend
+### 2.Frontend
 
 ```bash
 cd frontend
@@ -128,9 +128,9 @@ All endpoints are under `http://localhost:4000/api`:
 
 Future Scope
 
-• AI-powered clinical decision support – Replace the current rule-based triage engine with a validated AI model to analyse symptoms, vitals, medical history and risk factors.
+• AI-powered clinical decision support–Replace the current rule-based triage engine with a validated AI model to analyse symptoms,vitals,medical history and risk factors.
 
-• ABDM / ABHA integration – Connect with India's digital health ecosystem to securely exchange patient records, referrals and consultation information between healthcare facilities.
+• /ABHA integration – Connect with India's digital health ecosystem to securely exchange patient records, referrals and consultation information between healthcare facilities.
 
 • Offline-first mobile application – Enable health workers to register patients, perform triage and update referrals without internet, with automatic syncing when connectivity returns.
 
@@ -142,7 +142,7 @@ Future Scope
 
 • Smart referral routing – Recommend the most suitable facility based on urgency, distance, specialist availability, diagnostics and facility workload.
 
-• Multilingual voice assistant – Allow patients to interact through voice in regional languages, especially supporting elderly and low-literacy users.
+• Multilingual voice assistant – Allow patients to interact through voice in regional languages,especially supporting elderly and low-literacy users.
 
 • District and state-level analytics – Help health authorities identify referral bottlenecks, medicine shortages, overloaded facilities and emerging healthcare needs.
 
